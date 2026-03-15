@@ -1,0 +1,13 @@
+{
+  "name": "cricket-store",
+  "version": "1.0.0",
+  "description": "Cricket Store - Full Stack MERN E-commerce Application",
+  "scripts": {
+    "start": "cd backend && node server.js",
+    "dev": "cd backend && npx nodemon server.js",
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "build": "cd frontend && npm run build",
+    "heroku-postbuild": "cd frontend && npm install && npm run build",
+    "render-postbuild": "cd frontend && npm install && npm run build"
+  }
+}

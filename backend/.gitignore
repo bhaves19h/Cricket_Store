@@ -1,0 +1,50 @@
+# Node modules
+**/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+*.env
+**/*.env
+
+# JWT secret/config files
+*.jwt
+**/*.jwt
+
+# Build output
+client/build/
+client/dist/
+server/build/
+server/dist/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Cache & temp
+.cache/
+.next/
+out/
+*.tsbuildinfo
+temp/
+
+# Coverage/test
+coverage/
+test-results/
+
+# Uploaded files (if used)
+uploads/
+public/uploads/
+tmp/
+
+# Local environment variants
+.env.local
+.env.*.local

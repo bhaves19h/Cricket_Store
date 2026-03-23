@@ -1,6 +1,6 @@
 # Cricket Kit Store 🏏
 
-A full-stack e-commerce application for cricket equipment, built with the MERN stack (MongoDB, Express, React, Node.js). Installable on mobile as a Progressive Web App (PWA).
+A MERN-stack e-commerce application for cricket equipment, built with the MERN stack (MongoDB, Express, React, Node.js). Installable on mobile as a Progressive Web App (PWA).
 
 ## Features
 

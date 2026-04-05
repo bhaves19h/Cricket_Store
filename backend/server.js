@@ -33,7 +33,7 @@ if (process.env.NODE_ENV === "production") {
   })
 } else {
   app.get("/", (req, res) => {
-    res.send("Cricket Store API Running")
+    res.send("Cricket Store API is Running")
   })
 }
 
